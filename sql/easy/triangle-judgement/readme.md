@@ -1,0 +1,1 @@
+# Find if it is a triangle or not
